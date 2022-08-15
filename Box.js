@@ -6,7 +6,7 @@ class Box{
     restitution:1,
     label:"A BOX",
     timeScale:1,
-    friction:0.001
+    friction:1
     }
 
    
